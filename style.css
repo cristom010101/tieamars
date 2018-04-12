@@ -1,0 +1,35 @@
+body,html{
+	margin:0;
+	padding:0;
+	height:100%;
+	width:100%;
+
+
+}
+
+.arri{
+	background:url(2.jpg);
+	width:100%;
+	height:100%;
+	display:table;
+	top:0;
+	background-size:cover;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+.arri h1{
+	color:#00e5c6;
+	text-align:center;
+	font-size:1000%;
+}
+.arri a{
+	color:#7ab2f1;
+	font-size:350%;
+	text-decoration:none;
+	border:solid white;
+	border-radius:9px;
+
+}
+
+.arri a:hover{
+	color:#f2dc7b;
+}
